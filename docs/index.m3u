@@ -818,6 +818,8 @@ REDBULL,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 HotPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+AVA FAMILY,https://familyhls.avatv.live/hls/stream.m3u8
+
 
 01,#genre#
 大洼综合,https://cp.dawawg.com/live/dawatv/hls.m3u8
