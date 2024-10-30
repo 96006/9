@@ -519,6 +519,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 ot,#genre#
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228228/index.m3u8
 CCTV8K,http://223.105.252.57/PLTV/3/224/3221228165/1.m3u8
+CCTV16|4K,http://223.105.252.57/PLTV/3/224/3221228168/1.m3u8
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
 CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
