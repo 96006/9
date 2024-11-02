@@ -918,6 +918,8 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 大爱,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 华藏,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
+loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+星光综合,http://ali.hlspull.yximgs.com:80/live/zxcvbnm9852.flv
 AMC,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 skys ports,https://stream1.freetv.fun/skysports-3.ctv
 skys ports+,https://stream1.freetv.fun/skysports-plus-1.ctv
@@ -1019,6 +1021,8 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 @广播,#genre#
 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 CRI环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI南海之声,http://sk.cri.cn/nhzs.m3u8
@@ -1026,6 +1030,8 @@ CRI海峡飞虹,http://sk.cri.cn/hxfh.m3u8
 CRI轻松调频,http://sk.cri.cn/915.m3u8
 CRI客家之声,http://sk.cri.cn/hakka.m3u8
 CRI闽南之音,http://sk.cri.cn/minnan.m3u8
+
+
 陕西音乐广播FM98.8,https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 陕西戏曲广播FM107.8,https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
 陕西交通广播FM91.6,https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
