@@ -1015,3 +1015,15 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
 大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
 大连乐天购物,rtmp://secret.dltv.cn/dreamStreamCore/N4S4uAj/lv500
+
+@广播,#genre#
+陕西音乐广播FM98.8  https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+陕西戏曲广播FM107.8  https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+陕西交通广播FM91.6  https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+陕西农村广播AM900  https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+陕西青少广播 FM105.5  https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+陕广新闻-陕西都市广播101.8  https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+陕西新闻广播FM106.6  https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+陕西经济广播-汽车调频89.6  https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+陕西秦腔广播FM101.1  http://radio.snrtv.com/audio/cityopera/index.m3u8
+陕西故事广播FM87.8  http://radio.snrtv.com/audio/story/index.m3u8
