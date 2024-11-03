@@ -1365,6 +1365,8 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
 TJB|SBS,http://1.245.74.5:1935/live/tv/.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX Live Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX Live Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 KBS1,http://mytv.dothome.co.kr:80/ch/public/1.php
@@ -1394,6 +1396,15 @@ AVA FAMILY,https://familyhls.avatv.live/hls/stream.m3u8
 Toronto360,http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 ICI,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+GreatAction,http://185.19.191.2:8090/GreatAction/index.m3u8
+BBC America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+
+HBO 2,http://212.102.60.231/HBO_2/index.m3u8
+HBO FAMILY,http://212.102.60.231/HBO_FAMILY/index.m3u8
+NBA TV,http://212.102.60.231/NBA_TV/index.m3u8
+LIFETIME,http://212.102.60.231/LIFETIME/index.m3u8
+nick jr.,http://212.102.60.231/NICK_JR/index.m3u8
 
 @AK,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
