@@ -1333,6 +1333,7 @@ MOMOTV,http://211.72.65.236:8553/.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 DAZN1,rtmp://f13h.mine.nu/sat/tv731
+
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
@@ -1392,6 +1393,8 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 GreatAction,http://185.19.191.2:8090/GreatAction/index.m3u8
 BBC America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+Thai PBS3,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+Thai PBS3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 HBO 2,http://212.102.60.231/HBO_2/index.m3u8
 HBO FAMILY,http://212.102.60.231/HBO_FAMILY/index.m3u8
