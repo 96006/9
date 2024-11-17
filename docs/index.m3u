@@ -1,4 +1,4 @@
-@L1,#genre#
+@L,#genre#
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
@@ -824,6 +824,10 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227490
 风云音乐,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227502/index.m3u8
 央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227505/index.m3u8
 女性时尚,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227508/index.m3u8
+
+@H
+鸡西安全生活,http://39.134.65.209:80/PLTV/88888888/224/3221226050/1.m3u8
+鸡西安全生活,http://39.134.65.239:80/PLTV/88888888/224/3221226050/1.m3u8
 
 @9,#genre#
 凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/1.m3u8
