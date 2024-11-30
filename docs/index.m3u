@@ -14,8 +14,8 @@ CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226741/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226692/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226176/index.m3u8
- CCTV4|欧洲http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226998/index.m3u8
- CCTV4|欧洲http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
+*CCTV4|欧洲http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226998/index.m3u8
+*CCTV4|欧洲http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
@@ -554,8 +554,8 @@ CETV3,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226976/index.m3u8
 辽宁移动电视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 家有购物,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
-CCTV4|欧洲,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
-CCTV4|欧洲,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+*CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
+*CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227010/index.m3u8
 聚鲨环球精选,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
 延边卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
@@ -690,7 +690,7 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227490/index
 央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
 女性时尚,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227508/index.m3u8
 
- CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227001/index.m3u8
+*CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227001/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227010/index.m3u8
 聚鲨环球精选,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227044/index.m3u8
 延边卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227047/index.m3u8
