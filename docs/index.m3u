@@ -14,8 +14,8 @@ CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226741/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226692/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226176/index.m3u8
-*CCTV4|欧洲http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226998/index.m3u8
-*CCTV4|欧洲http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
+*CCTV1http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226998/index.m3u8
+*CCTV1http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
@@ -138,7 +138,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u
 兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226859/index.m3u8
 西藏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227157/index.m3u8
 西藏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226896/index.m3u8
-西藏卫视|藏语,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227157/index.m3u8
+西藏卫视 藏语,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227157/index.m3u8
 康巴卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227111/index.m3u8
 安多卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227160/index.m3u8
 农林卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227108/index.m3u8
@@ -343,7 +343,7 @@ CCTV17,http://39.134.61.219/PLTV/88888888/224/3221226594/index.m3u8
 厦门卫视,http://39.134.61.219/PLTV/88888888/224/3221226529/index.m3u8
 康巴卫视,http://39.134.61.219/PLTV/88888888/224/3221226822/index.m3u8
 安多卫视,http://39.134.61.219/PLTV/88888888/224/3221226769/index.m3u8
-西藏卫视|藏语,http://39.134.61.219/PLTV/88888888/224/3221226820/index.m3u8
+西藏卫视 藏语,http://39.134.61.219/PLTV/88888888/224/3221226820/index.m3u8
 山东教育卫视,http://39.134.61.219/PLTV/88888888/224/3221226816/index.m3u8
 农林卫视,http://39.134.61.219/PLTV/88888888/224/3221226818/index.m3u8
 北京纪实科教,http://39.134.61.219/PLTV/88888888/224/3221226472/index.m3u8
@@ -554,8 +554,8 @@ CETV3,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226976/index.m3u8
 辽宁移动电视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 家有购物,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
-*CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
-*CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+*CCTV1http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
+*CCTV1http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227010/index.m3u8
 聚鲨环球精选,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
 延边卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
@@ -690,7 +690,7 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227490/index
 央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
 女性时尚,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227508/index.m3u8
 
-*CCTV4|欧洲http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227001/index.m3u8
+*CCTV1http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227001/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227010/index.m3u8
 聚鲨环球精选,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227044/index.m3u8
 延边卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227047/index.m3u8
@@ -699,7 +699,7 @@ CCTV16,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227074/index.m3
 央广购物,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227105/index.m3u8
 农林卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227108/index.m3u8
 康巴卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227111/index.m3u8
-西藏卫视|藏语,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227157/index.m3u8
+西藏卫视 藏语,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227157/index.m3u8
 安多卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227160/index.m3u8
 吉林卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227163/index.m3u8
 山东教育卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227166/index.m3u8
