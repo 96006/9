@@ -1427,6 +1427,8 @@ KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+arirang KOREA,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+arirang KOREA,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 kbc|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 NEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -1458,6 +1460,8 @@ dutatv,https://dutatv.siar.us/dutatv/live/playlist.m3u8
 FOX newsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX newsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
+abc,http://41.205.93.154/ABC/index.m3u8
+abc 25,http://143.244.60.30/ABC_EAST/index.m3u8
 FOX EAST,http://143.244.60.30/FOX_EAST/index.m3u8
 Love Nature,http://143.244.60.30/LOVE_NATURE/index.m3u8
 NICKE LODEON,http://143.244.60.30/NICKELODEON/index.m3u8
@@ -1474,7 +1478,7 @@ Disney CHANNEL,http://38.96.178.201/live/Disney/index.m3u8
 Disney XD,http://38.96.178.201/live/DisneyXD/index.m3u8
 FOX NEWS,http://38.96.178.201/live/FOXNEWS/index.m3u8
 SONY,http://38.96.178.201/live/SONY/index.m3u8
-abc,http://38.96.178.201/live/ABCHD/index.m3u8
+abc 7,http://38.96.178.201/live/ABCHD/index.m3u8
 SYFY,http://38.96.178.201/live/SYFYHD/index.m3u8
 Discovery,http://38.96.178.201/live/Discovery/index.m3u8
 BBC America,http://38.96.178.201/live/BBCAmerica/index.m3u8
