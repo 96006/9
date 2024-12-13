@@ -1401,8 +1401,6 @@ AOD,http://cdn9.1689.us.kg:80/smt1.1.php?id=Aodhd
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 DAZN1,rtmp://f13h.mine.nu/sat/tv731
-DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv
-DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
@@ -1413,7 +1411,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 华藏,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
 loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 星光综合,http://ali.hlspull.yximgs.com:80/live/zxcvbnm9852.flv
-NBA TV,https://stream1.freetv.fun/nba-tv-1.ctv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
 TJB|SBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -1464,13 +1461,14 @@ NBA TV,http://212.102.60.231/NBA_TV/index.m3u8
 LIFETIME,http://212.102.60.231/LIFETIME/index.m3u8
 dutatv,https://dutatv.siar.us/dutatv/live/playlist.m3u8
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
-CECO1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECO2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECO3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECO4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+中国国际教育1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 延边2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+延边2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 北京|顺义,https://livebjsy.chinamcache.com:443/live/zb02.flv
 北京|延庆,https://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911
 兵团四师可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
