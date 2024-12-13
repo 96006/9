@@ -1455,11 +1455,32 @@ BBC America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 Thai PBS3,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 Thai PBS3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+dutatv,https://dutatv.siar.us/dutatv/live/playlist.m3u8
+FOX newsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX newsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+FOX EAST,http://143.244.60.30/FOX_EAST/index.m3u8
+Love Nature,http://143.244.60.30/LOVE_NATURE/index.m3u8
+NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
+NICK TOONS,http://143.244.60.30/NICKTOONS/index.m3u8
+REVOLT,http://143.244.60.30/REVOLT/manifest.m3u8
+tbs America,http://143.244.60.30/TBS/index.m3u8
+HBO,http://41.205.93.154/HBO/index.m3u8
 HBO 2,http://212.102.60.231/HBO_2/index.m3u8
 HBO FAMILY,http://212.102.60.231/HBO_FAMILY/index.m3u8
 NBA TV,http://212.102.60.231/NBA_TV/index.m3u8
 LIFETIME,http://212.102.60.231/LIFETIME/index.m3u8
-dutatv,https://dutatv.siar.us/dutatv/live/playlist.m3u8
+USA,http://38.96.178.201/live/USA/index.m3u8 
+Disney CHANNEL,http://38.96.178.201/live/Disney/index.m3u8
+Disney XD,http://38.96.178.201/live/DisneyXD/index.m3u8
+FOX NEWS,http://38.96.178.201/live/FOXNEWS/index.m3u8
+SONY,http://38.96.178.201/live/SONY/index.m3u8
+abc,http://38.96.178.201/live/ABCHD/index.m3u8
+SYFY,http://38.96.178.201/live/SYFYHD/index.m3u8
+Discovery,http://38.96.178.201/live/Discovery/index.m3u8
+BBC America,http://38.96.178.201/live/BBCAmerica/index.m3u8
+PBS Kids,http://38.96.178.201/live/PBSKIDS/index.m3u8
+
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
 中国国际教育1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
