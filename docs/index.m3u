@@ -1,4 +1,4 @@
-CM.ln,#genre#
+cm.ln,#genre#
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
@@ -755,7 +755,7 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227490
 央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227505/index.m3u8
 女性时尚,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227508/index.m3u8
 
-CM.hl,#genre#
+cm.hl,#genre#
 CCTV1,http://39.134.65.209:80/PLTV/88888888/224/3221225816/0.m3u8
 CCTV1,http://39.134.65.209:80/PLTV/88888888/224/3221226119/1.m3u8
 CCTV1,http://39.134.65.239:80/PLTV/88888888/224/3221225816/0.m3u8
@@ -898,6 +898,10 @@ CGTN Español,http://39.134.65.209:80/PLTV/88888888/224/3221226094/1.m3u8
 测试,http://39.134.65.239:80/PLTV/88888888/224/3221225651/0.m3u8
 央广购物,http://39.134.65.209:80/PLTV/88888888/224/3221225679/0.m3u8
 央广购物,http://39.134.65.209:80/PLTV/88888888/224/3221225682/0.m3u8
+
+cm.js
+CCTV4K,http://223.105.252.60/PLTV/4/224/3221228228/index.m3u8
+CCTV8K,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8
 
 KUAI,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
