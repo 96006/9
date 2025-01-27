@@ -899,22 +899,6 @@ CGTN Español,http://39.134.65.209:80/PLTV/88888888/224/3221226094/1.m3u8
 央广购物,http://39.134.65.209:80/PLTV/88888888/224/3221225679/0.m3u8
 央广购物,http://39.134.65.209:80/PLTV/88888888/224/3221225682/0.m3u8
 
-cm.js,#genre#
-CCTV4K,http://223.105.252.60/PLTV/4/224/3221228228/index.m3u8
-CCTV8K,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8
-凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8
-凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
-凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
-凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8
-
-kuai,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-
 aktv,#genre#
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
@@ -1011,7 +995,6 @@ Nippon TV,https://ntv4.mov3.co/hls/ntv.m3u8
 KBS1,http://mytv.dothome.co.kr:80/ch/public/1.php
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
@@ -1031,7 +1014,6 @@ FTV|UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 IGI,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 REDBULL,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 REDBULL,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-HotPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 半岛电视台|英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台|英语,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半岛电视台|阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -1040,7 +1022,6 @@ Toronto360,http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 ICI,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 GreatAction,http://185.19.191.2:8090/GreatAction/index.m3u8
-BBC America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 Thai PBS3,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 Thai PBS3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
